@@ -53,6 +53,7 @@ body{
 .signup-body p input{
     width: 100%;
     padding: 10px;
+    outline: none;
     border: 2px solid rgb(40, 144, 241);
     border-radius: 5px;
     font-size: 1rem;
